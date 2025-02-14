@@ -4,6 +4,8 @@ This is a dataset of programming tasks with a testing system.
 
 Setup:
 
+!!!WARNING!!! DOWNLOADS OVER 70 GB !!!WARNING!!!
+
 download.py – downloads all tasks to your directory.
 
 links.txt – contains URLs to ZIP archives with tasks.
